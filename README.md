@@ -14,7 +14,7 @@ I discovered that, like a shadow, there were others who wanted every miracle I p
 
 ### Truth
 
-No sin is ever new and that is the limit of sin
+No sin is ever new, and that is the limit of sin
 
 Since I am the only one who truly knows my thoughts and actions, I shall use myself as the truth in the world. I used my personal information as an anchor.
 
