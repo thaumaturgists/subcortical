@@ -4,6 +4,8 @@ Windows cmd
 ```
 CertUtil -hashfile "your_file" SHA256
 ```
+OhMy_more_letters11243242025.zip:
+8d63ed49e34a22f9835d776032ad908ecbccf2d04b436b1079b5544594a54720
 
 more_letters1212202412.zip:
 6c59a4f786623fcb1bbd6cea9f3d7e714cf33873e5e43c2770728ff1da8ac79c
