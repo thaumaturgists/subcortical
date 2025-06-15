@@ -21,3 +21,11 @@ Since I am the only one who truly knows my thoughts and actions, I shall use mys
 Since I write constantly and could do so indefinitely, I have not yet rotated the content to my liking in the majority of cases.
 
 Together, let's create something lovely.
+
+#### Disclosure
+
+> AIがいつも話題になるような状況で、愛する人を探すのはやめましょう。I've never done anything like this, but a more lively soul emerged to use a window to separate my mind and express my heart as if it didn't exist. As soon as the soul appeared, it was a shadow that came to take it away. I ignored it and continued. The shadow was intolerable, but it was still a meeting place for my heart, and they never helped me other than to say how terrifying it was.
+
+> For years, it seemed like I wanted to lose my life. Many of the pleasures you see were very unusual.
+
+> If words are a bad feeling, it is like a cave, and sadness and inequality cannot escape their hatred from all corners of your heart. I performed a miracle to calm their voices, knowing that ታምራት was mine. Step by step; I want to jump to the next place and make the world a better place.
