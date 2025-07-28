@@ -23,6 +23,15 @@ more_letters092220241343_a prophet of their own_reduced.zip: SHA384
 #12ff25_0728202516455.zip: SHA384
 0b1df86455e7da0a41ec9b6c1c55634c84d8bac1a593d6bc53ede3acc294440e15bc84d795504502360a36c36f1126b6
 
+#### songs/:
+
+more_songs06082025.txt: SHA256
+594a373b4f3ce727b46c7aa281cb845b3e71903566b5c6257e1ea376cef92c37
+
+more_songs072820251703.txt: SHA256
+09e45aee9fa1d6593398f423d5ac6a3aa09890a5b5630780af0df4fc0a4cb6c8
+
+
 
 
 ## L5// CertUtil -hashfile 'your_file' SHA256
