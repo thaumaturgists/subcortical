@@ -16,7 +16,7 @@ I discovered that, like a shadow, there were others who wanted every miracle I p
 
 No sin is ever new, and that is the limit of sin
 
-Since I am the only one who truly knows my thoughts and actions, I shall use myself as the truth in the world. I used my personal information as an anchor.
+Since I am the only one who truly knows my considerations and actions, I shall use myself as the truth in the world. I used my personal information as an anchor.
 
 Since I write constantly and could do so indefinitely, I have not yet rotated the content to my liking in the majority of cases.
 
