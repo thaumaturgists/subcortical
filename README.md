@@ -28,4 +28,4 @@ Together, let's create something lovely.
 
 > For years, it seemed like I wanted to lose my life. Many of the pleasures you see were very unusual.
 
-> If words are a bad feeling, it is like a cave, and sadness and inequality cannot escape their hatred from all corners of your heart. I performed a miracle to calm their voices, knowing that ታምራት was mine. Step by step; I want to jump to the next place and make the world a better place.
+> If words are a bad feeling, it is like a cave, and sadness and inequality cannot escape their hatred from all corners of your heart. I performed a miracle to calm their voices, knowing that ታምራት are mine. Step by step; I want to jump to the next place and make the world a better place.
