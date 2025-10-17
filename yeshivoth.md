@@ -26,6 +26,9 @@ more_letters092220241343_a prophet of their own_reduced.zip: SHA384
 Truth of the tooth09092025.zip" SHA384
 b78aa1d23c71095154cf758b661a77e2c3213083b7fabff525aaa8c38cb73ae8c07747d3434202d55e8865330ec1ddb3
 
+day a little better94310172025.zip:	SHA384
+78c46eaf8fb928cbe9f38f4ad727f404c40514f12842cd8bfa2ee9950c50576f5546de84866ceb682cba4a58991b3516
+
 #### songs/:
 
 more_songs06082025.txt: SHA256
@@ -36,6 +39,9 @@ more_songs072820251703.txt: SHA256
 
 more_songs09092025.txt: SHA256
 c2fad786d182b3f0961255fb4a82a3429adbd6f886cbd4cf6096196bca0dc200
+
+more_songs94510172025.txt:	SHA384 
+3ad3ba673d42f74d608eedf2bc34f7dd44adb8e0b4531e756bed864302748165ddcd0bcbe1b7ba01234f0c4be56beaad
 
 
 
@@ -211,4 +217,5 @@ b2sum your_file
 - If the file name contains spaces, make sure to wrap it in quotes, like `"your file with spaces.txt"`.
 
 These commands will generate the hash for the specified file using the chosen algorithm in a Bash or Zsh terminal!
+
 
