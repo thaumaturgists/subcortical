@@ -32,6 +32,9 @@ day a little better94310172025.zip:	SHA384
 let me show you 315-230412252025.zip:	SHA384
 4c1daa726bb20f42612ed1cdc0083cd8f6f2af9c916ddafe4296aad24a09625ac6744f2b05fae46db156355bde2931bd
 
+largest wave041220261802.zip:	SHA384
+86bcbb740ad763f6a524b730cbebca14f6005a7d7901e8bba40b79eec95d33da089ee1dd386c069842e965cb9bcd425c
+
 #### songs/:
 
 more_songs06082025.txt: SHA256
@@ -48,6 +51,9 @@ more_songs94510172025.txt:	SHA384
 
 more_songs231212252025.zip:	SHA256
 cfedd56488924fdf41dd212bfe36eb54d88a69afa08b534bce5df47a3f7981a8
+
+more_songs04122026-ows-ss-cu.zip:	SHA384
+8da135a939e2ec6037e0945d153d33f69a219c85a68db17ece0cff4c472d8520a2552ac8ffaa0ae2cc7c3804c4cfe7b0
 
 
 
